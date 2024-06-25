@@ -1,10 +1,10 @@
 # AzureLabs
 
-Collection of Azure labs for skill enhancement as an Azure Administrator.
+Collection of Azure labs for AZ-104, AZ-500, and more to enhance Azure Administrator/Security skills.
 
 ## Labs Overview
 
-Explore practical exercises covering various Azure services.
+Explore practical exercises covering AZ-104 and AZ-500 labs.
 
 ## Usage
 
