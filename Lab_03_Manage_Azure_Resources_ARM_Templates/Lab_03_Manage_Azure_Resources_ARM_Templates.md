@@ -3,8 +3,6 @@
 ### Lab introduction
 In this lab, I learned how to automate resource deployments using Azure Resource Manager templates and Bicep templates. I explored different methods of deploying these templates.
 
-### Estimated timing: 50 minutes
-
 ### Job skills
 **Task 1: Created an Azure Resource Manager template**
 In this task, I created a managed disk in the Azure portal and exported a template for future deployments.
@@ -42,3 +40,5 @@ Deployed a managed disk using Azure Bicep.
 
 ### Cleanup of resources
 Deleted lab resources using Azure PowerShell to minimize cost and ensure resources are freed up.
+
+Note: All screenshots taken during the lab have been uploaded to the relevant directory in the GitHub repository.
