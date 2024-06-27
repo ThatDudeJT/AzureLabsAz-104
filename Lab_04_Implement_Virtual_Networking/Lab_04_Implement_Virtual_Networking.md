@@ -5,8 +5,6 @@ This lab was the first of three labs focusing on virtual networking. In this lab
 
 This lab required an Azure subscription. The subscription type could affect the availability of features in this lab. The region could be changed, but the steps were written using East US.
 
-**Estimated time:** 50 minutes
-
 #### Task 1: Create a Virtual Network with Subnets Using the Portal
 
 The organization planned for significant growth in core services. In this task, a virtual network and associated subnets were created to accommodate existing resources and planned growth.
@@ -164,7 +162,7 @@ A private DNS zone provides name resolution services within virtual networks. A 
    
    - **Subscription:** Selected your subscription
    - **Resource group:** az-104-rg4
-   - **Name:** private.contoso.com (adjusted if necessary)
+   - **Name:** private.contoso56.com (adjusted as necessary)
    - **Region:** East US
 
 4. **Selected Review + create and then Create.**
@@ -180,7 +178,7 @@ A private DNS zone provides name resolution services within virtual networks. A 
 
 8. **Selected OK and waited for the link to create.**
 
-9. **From the Overview blade, selected + Record set.** Added a record for each virtual machine that needed private name-resolution support:
+9. **From the Overview blade, selected + Record set.** Added a record for the virtual machine that needed private name-resolution support:
 
    - **Name:** sensorvm
    - **Type:** A
