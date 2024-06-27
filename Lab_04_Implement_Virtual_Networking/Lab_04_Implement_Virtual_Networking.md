@@ -184,3 +184,5 @@ A private DNS zone provides name resolution services within virtual networks. A 
    - **Type:** A
    - **TTL:** 1
    - **IP address:** 10.1.1.4
+   
+   Note: All screenshots taken during the lab have been uploaded to the relevant directory in the GitHub repository.
