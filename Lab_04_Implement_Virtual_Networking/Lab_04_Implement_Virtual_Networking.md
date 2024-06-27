@@ -125,7 +125,7 @@ In this task, an Application Security Group and a Network Security Group were cr
      - **Source application security groups:** asg-web
      - **Source port ranges:** *
      - **Destination:** Any
-     - **Service:** Custom (notice your other choices)
+     - **Service:** Custom
      - **Destination port ranges:** 80,443
      - **Protocol:** TCP
      - **Action:** Allow
