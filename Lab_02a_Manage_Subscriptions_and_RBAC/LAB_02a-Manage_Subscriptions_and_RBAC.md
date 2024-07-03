@@ -36,7 +36,7 @@ To streamline Azure resource management within our organization, we focused on t
      - **Management group display name:** az104-mg1
    - Submitted the configuration and refreshed the page to view the newly created management group.
 
-![Create Management Group](Lab_02a_Screenshots/Screenshot 2024-06-24 215100.png)
+![Create Management Group](Lab_02a_Screenshots/create_management_groupSS1.png)
 
 ### Task 2: Review and Assign a Built-in Azure Role
 
