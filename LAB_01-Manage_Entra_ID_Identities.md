@@ -21,6 +21,7 @@
 - Provided additional details such as Job title: IT Lab Administrator, Department: IT, and Usage location: United States.
 - Reviewed the settings and confirmed the creation of the new user.
 ![Create a New User](Screenshots/create_a_new_user.png)
+![Create a New User](Screenshots/create_a_new_user(1).png)
 
 ## Invite an External User
 
