@@ -29,6 +29,8 @@
 - Sent an invitation to my personal email address with a welcome message outlining our group project's scope and purpose.
 - Entered job title, department, and usage location details to complete the invitation setup.
 - Confirmed the invitation was sent and awaited the arrival of the invitation email.
+![Invite an External User](Screenshots/invite_external_user.png)
+![Invite an External User](Screenshots/invite_external_user(1).png)
 
 ## Task 2: Create Groups and Add Members
 
