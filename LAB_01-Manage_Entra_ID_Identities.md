@@ -20,7 +20,7 @@
 - Opted for auto-generating the password and ensured the account was enabled.
 - Provided additional details such as Job title: IT Lab Administrator, Department: IT, and Usage location: United States.
 - Reviewed the settings and confirmed the creation of the new user.
-![Create a New User](screenshots/create_a_new_user.png)
+![Create a New User](Screenshots/create_a_new_user.png)
 
 ## Invite an External User
 
