@@ -20,8 +20,10 @@
 - Opted for auto-generating the password and ensured the account was enabled.
 - Provided additional details such as Job title: IT Lab Administrator, Department: IT, and Usage location: United States.
 - Reviewed the settings and confirmed the creation of the new user.
+
 ![Create a New User](Screenshots/create_a_new_user.png)
 ![Create a New User](Screenshots/create_a_new_user(1).png)
+![Create a New User](Screenshots/users.png)
 
 ## Invite an External User
 
@@ -29,6 +31,7 @@
 - Sent an invitation to my personal email address with a welcome message outlining our group project's scope and purpose.
 - Entered job title, department, and usage location details to complete the invitation setup.
 - Confirmed the invitation was sent and awaited the arrival of the invitation email.
+
 ![Invite an External User](Screenshots/invite_external_user.png)
 ![Invite an External User](Screenshots/invite_external_user(1).png)
 
@@ -41,6 +44,10 @@
 - Chose Assigned as the membership type to maintain control over group membership.
 - Acted as the group owner and added `az104-user1` and our invited guest user to ensure comprehensive group membership.
 - Successfully created the group and reviewed its setup to verify completeness.
+
+![Create a Group](Screenshots/new_group.png)
+![Create a Group](Screenshots/group_members.png)
+![Create a Group](Screenshots/group_owner.png)
 
 ### Review Group Details
 - Refreshed the portal page to confirm the creation of the IT Lab Administrators group.
